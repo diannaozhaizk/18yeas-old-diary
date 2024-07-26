@@ -1,7 +1,7 @@
 # 18岁的仓库
 ---
 ### STC四轴无人机
-- 此次项目基于[ STC 8051U 32bit](https://www.stcaimcu.com/plugin.php?id=mdown:index#/) 进行开发。
+- 此次项目基于[ STC 8051U 32bit](https://www.stcaimcu.com/plugin.php?id=mdown:index#/)进行开发。
 - 此项目在开发时，本人已拥有较为基础的经验体系，但对于这次开发仍然0到1的突破。
 - 希望此项目能在本人大一学年的下半期之前完成这个庞大体系的项目。                                                    
 ---
